@@ -1,7 +1,7 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created comp2156 lab excercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
@@ -12,10 +12,7 @@
     "url": "git+https://github.com/akhilib/COMP2156.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/akhilib/COMP2156/issues"
-  },
-  "homepage": "https://github.com/akhilib/COMP2156#readme"
+  "author": "Akhil",
+  "license": "ISC"
+  
 }
